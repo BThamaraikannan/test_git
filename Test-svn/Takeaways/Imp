@@ -1,0 +1,74 @@
+(David bussey)
+Application Name: RMS reporting mgmt system
+=========================
+Apex Application
+
+Code: data warehouse, apex, OBIEE/OAC
+IDE: JDeveloper or any
+JDeveloper Version: If using JDeveloper as a IDE tool, please mention the version as well as the JDK version.
+Code Repo: ALM GIT (CI)  -> orahub + gitlab runners
+Build engine: Manual or using any Build tool like Maven/NPM/Grunt
+Package format: WAR/EAR/JAR
+Daily dev deployments: You can put the numbers.
+Frequency of Deployment: every 2 weeks
+How much time it takes to complete on deployment: ex. 30 minutes or 1-2 hours
+Present development process:
+Any DB changes:
+Any other manual process:
+
+
+=====================
+
+-> CR
+-> looking for docker containers
+-> multiple services running need containerisation
+-> need build process enhancements
+-> SPOC -> Argha bhattacharya
+
+===================================================================================================================
+
+(Santhosh raghunath) Application Name:  myoracle support
+=========================
+
+converting to fusion in Oracle cloud
+
+
+Code: Java/ADF, OraJet, etc.
+IDE: JDeveloper or any
+JDeveloper Version: If using JDeveloper as a IDE tool, please mention the version as well as the JDK version.
+Code Repo: SVN or GIT
+Build engine: Manual or using any Build tool like Maven/NPM/Grunt
+Package format: WAR/EAR/JAR
+Daily dev deployments: You can put the numbers.
+Frequency of Deployment: ex. In 2 days
+How much time it takes to complete on deployment: ex. 30 minutes or 1-2 hours
+Present development process:
+Any DB changes:
+Any other manual process:
+
+
+share the video
+need to speak
+
+===================================================================================================================
+
+(Andrew davis) Application Name:  Real estate bear tracks
+=========================
+
+
+Code: Java/ADF, OraJet, etc.
+IDE: JDeveloper or any
+JDeveloper Version: If using JDeveloper as a IDE tool, please mention the version as well as the JDK version.
+Code Repo:
+Build engine: Manual or using any Build tool like Maven/NPM/Grunt
+Package format: WAR/EAR/JAR
+Daily dev deployments: You can put the numbers.
+Frequency of Deployment: ex. In 2 days
+How much time it takes to complete on deployment: ex. 30 minutes or 1-2 hours
+Present development process:
+Any DB changes:
+Any other manual process:
+
+PoC: sangeeth salwar <sangeeth.sallawar@oracle.com>
+
+===================================================================================================================
